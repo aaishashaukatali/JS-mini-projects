@@ -27,14 +27,27 @@ It uses **API Integration** and **DOM Manipulation** concepts.<br>
 https://aaishashaukatali.github.io/JS-mini-projects/state_api.html
 
 ### 6. Todo App (Console Version)
-Manage tasks dynamically using the console window .<br>
+Manage tasks dynamically using the console window like- add, list, quit.<br>
 It uses **Array Methods, Loops** and **Conditional Statements**.<br>
 https://aaishashaukatali.github.io/JS-mini-projects/todo_app_1.html
 
 ### 7. Todo App (DOM Version)
-Manage tasks dynamically using the console window .<br>
-It uses **DOM Manipulation, Event Delegation** and **Local Storage**.<br>
+Manage tasks like add and delete dynamically.<br>
+It uses **DOM Manipulation** and **Event Delegation**.<br>
 https://aaishashaukatali.github.io/JS-mini-projects/todo_app_2.html
+
+
+
+
+### 6. Todo App (Console Version)
+Manage tasks dynamically through the console with options like add, list, and quit.<br>
+It uses **Array Methods**, **Loops**, and **Conditional Statements**.<br>
+🔗 [View Project](https://aaishashaukatali.github.io/JS-mini-projects/todo_app_1.html)
+
+### 7. Todo App (DOM Version)
+Manage tasks dynamically with add and delete functionality using the browser UI.<br>
+It uses **DOM Manipulation** and **Event Delegation** concepts.<br>
+🔗 [View Project](https://aaishashaukatali.github.io/JS-mini-projects/todo_app_2.html)
 
 
 
