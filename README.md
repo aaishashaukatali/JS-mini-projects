@@ -1,7 +1,6 @@
 ## JavaScript Mini Projects
 
 **This repository contains small JavaScript projects that demonstrate core development concepts such as:
-
 DOM Manipulation, API Integration, Event Handling, Dynamic Rendering, Randomization, and Game Logic.**<br><br>
 
 
