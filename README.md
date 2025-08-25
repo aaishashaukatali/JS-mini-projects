@@ -11,3 +11,9 @@ Generates random colors and displays their HEX codes with each click.<br>
 It uses **DOM Manipulation** and **Randomization** concepts.<br>
 https://aaishashaukatali.github.io/JS-mini-projects/random_color_generator.html
 
+### 3. Image API
+Fetches random images from API and displays them dynamically on the page.<br>
+It uses **API Integration** and **Dynamic Rendring** concepts.<br>
+https://aaishashaukatali.github.io/JS-mini-projects/image_api.html
+
+
