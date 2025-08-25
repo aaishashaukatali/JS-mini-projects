@@ -26,17 +26,16 @@ Find the university dynamically as the state of India.<br>
 It uses **API Integration** and **DOM Manipulation** concepts.<br>
 https://aaishashaukatali.github.io/JS-mini-projects/state_api.html
 
-5. To-Do App (Version 1)
+### 6. Todo App (Console Version)
+Manage tasks dynamically using the console window .<br>
+It uses **Array Methods, Loops** and **Conditional Statements**.<br>
+https://aaishashaukatali.github.io/JS-mini-projects/todo_app_1.html
 
-A simple To-Do list where users can add and delete tasks.
-Concepts Used: DOM Manipulation, Event Handling
+### 7. Todo App (DOM Version)
+Manage tasks dynamically using the console window .<br>
+It uses **DOM Manipulation, Event Delegation** and **Local Storage**.<br>
+https://aaishashaukatali.github.io/JS-mini-projects/todo_app_2.html
 
-
-6. To-Do App (Version 2)
-
-An enhanced To-Do list with task persistence using Local Storage.
-Concepts Used: DOM Manipulation, Local Storage, Event Handling
-🔗 Try It Here
 
 
 
