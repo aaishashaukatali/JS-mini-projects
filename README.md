@@ -16,4 +16,9 @@ Fetches random images from API and displays them dynamically on the page.<br>
 It uses **API Integration** and **Dynamic Rendring** concepts.<br>
 https://aaishashaukatali.github.io/JS-mini-projects/image_api.html
 
+### 3. University API
+Find the university dynamically as country based.<br>
+It uses **API Integration** and **Dynamic Rendring** concepts.<br>
+
+
 
