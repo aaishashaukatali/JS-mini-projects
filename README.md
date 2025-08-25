@@ -16,9 +16,27 @@ Fetches random images from API and displays them dynamically on the page.<br>
 It uses **API Integration** and **Dynamic Rendring** concepts.<br>
 https://aaishashaukatali.github.io/JS-mini-projects/image_api.html
 
-### 3. University API
+### 4. University API
 Find the university dynamically as country based.<br>
-It uses **API Integration** and **Dynamic Rendring** concepts.<br>
+It uses **API Integration** and **DOM Manipulation** concepts.<br>
+https://aaishashaukatali.github.io/JS-mini-projects/university_api.html
+
+### 5. State API
+Find the university dynamically as the state of India.<br>
+It uses **API Integration** and **DOM Manipulation** concepts.<br>
+https://aaishashaukatali.github.io/JS-mini-projects/state_api.html
+
+5. To-Do App (Version 1)
+
+A simple To-Do list where users can add and delete tasks.
+Concepts Used: DOM Manipulation, Event Handling
+
+
+6. To-Do App (Version 2)
+
+An enhanced To-Do list with task persistence using Local Storage.
+Concepts Used: DOM Manipulation, Local Storage, Event Handling
+🔗 Try It Here
 
 
 
