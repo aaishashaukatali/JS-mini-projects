@@ -1,5 +1,5 @@
 ## JavaSricpt Mini Projects
-A collection of small projects of javascript demonstrating core development concepts like **DOM Manipulation, API Integration, Local Storage, Dynamic Rendring, Randomization.**
+A collection of small projects of javascript demonstrating core development concepts like **DOM Manipulation, API Integration, Event Handling, Local Storage, Dynamic Rendring, Randomization, Game Logic.**
 
 ### 1. Simon Says Game
 A fun memory game where user repeat sequences genrated by the game.<br>
